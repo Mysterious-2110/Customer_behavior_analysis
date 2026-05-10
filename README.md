@@ -2,6 +2,7 @@
 Here is a comprehensive and professionally formatted README.md file for your GitHub repository, based on the analysis and technical steps found in your project files.
 
 Customer Shopping Behavior Analysis
+
 1.Project Overview
 This project provides an end-to-end analysis of customer shopping behavior using a dataset of 3,900 transactions. By combining Python for data cleaning, SQL for business logic, and Power BI for visualization, the project uncovers critical insights into demographics, spending patterns, and subscription trends to drive strategic business decisions.  
 +4
