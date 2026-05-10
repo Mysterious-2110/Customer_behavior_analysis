@@ -5,7 +5,7 @@ Customer Shopping Behavior Analysis
 
 1.Project Overview
 This project provides an end-to-end analysis of customer shopping behavior using a dataset of 3,900 transactions. By combining Python for data cleaning, SQL for business logic, and Power BI for visualization, the project uncovers critical insights into demographics, spending patterns, and subscription trends to drive strategic business decisions.  
-+4
+
 
 2. Dataset Summary
 
@@ -49,7 +49,7 @@ Key business questions addressed via SQL include:
 
 
 Revenue by Gender: Male customers contributed $157,890 compared to $75,191 from female customers.  
-+1
+
 
 
 Subscription Impact: While there are more non-subscribers (2,847), subscribers and non-subscribers maintain a similar average spend (~$59).  
@@ -64,11 +64,11 @@ Customer Segmentation: Classified the base into Loyal (3,116), Returning (701), 
 An interactive dashboard was built to track:
 
 KPIs: Total customers (3.9K), Avg. Purchase ($59.76), and Avg. Rating (3.75).  
-+2
+
 
 
 Category Performance: "Clothing" and "Accessories" emerged as the highest revenue-generating categories.  
-+1
+
 
 
 Age Demographics: "Young Adults" represent the highest revenue-contributing age group.  
@@ -79,7 +79,7 @@ Loyalty Programs: Implement rewards specifically for the "Returning" segment to 
 
 
 Subscription Growth: Enhance exclusive benefits to increase the 27% subscription rate.  
-+1
+
 
 
 Targeted Marketing: Focus campaigns on high-revenue categories (Clothing) and the Young Adult demographic.  
