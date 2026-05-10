@@ -1,6 +1,3 @@
-
-Here is a comprehensive and professionally formatted README.md file for your GitHub repository, based on the analysis and technical steps found in your project files.
-
 Customer Shopping Behavior Analysis
 
 1.Project Overview
